@@ -1,0 +1,13 @@
+{
+  "name": "dsl-aggregation",
+  "version": "0.0.1",
+  "description": "dsl设计整理",
+  "author": "wujohns",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "node-ssh": "^8.0.0",
+    "lodash": "^4.17.21"
+  }
+}
