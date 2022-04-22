@@ -3,7 +3,7 @@
   * [项目简介](/)
 
 * **案例解析**
-  * [*预备部分](/ex-details/before.md)
+  * [**预备部分**](/ex-details/before.md)
   * [简道云](/ex-details/jiandaoyun.md)
   * [宜搭](/ex-details/aliwork.md)
   * [strapi](/ex-details/strapi.md)
