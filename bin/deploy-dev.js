@@ -33,6 +33,7 @@ const deploy = async () => {
         if (
           _.includes(itemPath, 'bin') ||
           _.includes(itemPath, 'node_modules') ||
+          _.includes(itemPath, '.git') ||
           _.includes(itemPath, '.gitignore') ||
           _.includes(itemPath, 'makefile') ||
           _.includes(itemPath, '.env') ||

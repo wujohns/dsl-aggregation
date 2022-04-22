@@ -2,4 +2,4 @@ dev:
 	docsify serve ./
 
 deploy-dev:
-	node deploy-dev.js
+	node bin/deploy-dev.js
