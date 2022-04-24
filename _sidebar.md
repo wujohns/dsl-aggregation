@@ -1,11 +1,12 @@
 <!-- docs/_sidebar.md -->
 * **概述**
   * [项目简介](/)
+  * [结构整理](/structure.md)
 
 * **案例解析**
-  * [**预备部分**](/ex-details/before.md)
   * [简道云](/ex-details/jiandaoyun.md)
   * [宜搭](/ex-details/aliwork.md)
+  * [华炎魔方](/ex-details/steedos.md)
   * [strapi](/ex-details/strapi.md)
   * [dataverse](/ex-details/dataverse.md)
 
